@@ -1,0 +1,6 @@
+[submodule "InstallApache"]
+	path = InstallApache
+	url = https://github.com/Al3x4ndru1/InstallApache.git
+[submodule "CustomFFMPEG"]
+	path = CustomFFMPEG
+	url = https://github.com/Al3x4ndru1/CustomFFMPEG.git
